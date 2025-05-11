@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshita</h1>
 <h3 align="center">The only way to become a clever programmer is to: Practice.PracticePractice.Code.Code.Code</h3>
 
-- 🌱 I’m currently learning ** DSA (Data Structure and Algorithm), DRF(Django Rest Framework)**
+- 🌱 I’m currently Working on ** DRF(Django Rest Framework)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vanshita-shah-2a2600210/**
 
